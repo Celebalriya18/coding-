@@ -1,7 +1,12 @@
-# coding-
+1. # coding-
 
 a = int(input())
     b = int(input())
     print(a+b)
     print(a-b)
     print(a*b)
+
+
+    
+
+    
